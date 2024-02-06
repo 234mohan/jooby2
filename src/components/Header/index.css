@@ -1,0 +1,35 @@
+.list {
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
+.imageu {
+  height: 30px;
+  width: 140px;
+  margin: 20px;
+}
+.container-header {
+  background-color: #272727;
+  height: 60px;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.lists {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.button-log {
+  height: 30px;
+  width: 100px;
+  color: white;
+  background-color: #4f46e5;
+  border-width: 0px;
+  border-radius: 5px;
+  margin: 20px;
+}
